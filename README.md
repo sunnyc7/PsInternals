@@ -1,0 +1,4 @@
+PsInternals
+===========
+
+Powershell Sysinternals equivalent
